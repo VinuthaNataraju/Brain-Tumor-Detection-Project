@@ -20,25 +20,25 @@ The project is implemented in Python, using TensorFlow, Keras, NumPy,ImageNet, M
 
 Users must follow this exact folder structure before running the notebook.
 
-Brain_Tumor_Detection/
-│
-├── brain_tumer_cnn.ipynb
-dataset/
-│
-├── train/
-│   ├── glioma/
-│   ├── meningioma/
-│   ├── pituitary/
-│   └── no_tumor/
-│
-└── test/
-    ├── glioma/
-    ├── meningioma/
-    ├── pituitary/
-    └── no_tumor/
-
-│
-└── README.md
+Brain_Tumor_Detection/                                                                                                                                                       
+│                                                                                                                                                                            
+├── brain_tumer_cnn.ipynb                                                                                                                                                    
+dataset/                                                                                                                                                                     
+│                                                                                                                                                                            
+├── train/                                                                                                                                                                   
+│   ├── glioma/                                                                                                                                                              
+│   ├── meningioma/                                                                                                                                                          
+│   ├── pituitary/                                                                                                                                                           
+│   └── no_tumor/                                                                                                                                                            
+│                                                                                                                                                                            
+└── test/                                                                                                                                                                    
+    ├── glioma/                                                                                                                                                              
+    ├── meningioma/                                                                                                                                                          
+    ├── pituitary/                                                                                                                                                          
+    └── no_tumor/                                                                                                                                                            
+                                                                                                                                                                        
+│                                                                                                                                                                            
+└── README.md                                                                                                                                                           
 
 📥 Dataset Download
 
